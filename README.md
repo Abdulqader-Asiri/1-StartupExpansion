@@ -43,7 +43,7 @@ The dataset contains 150 rows and 7 columns.
 ## Cleaning & Analysis
 
 ### The data was cleaned so we don't need to clean anything.
-### Here, we could discover the following things in the dataset:
+### Here is the full [code](https://github.com/Abdulqader-Asiri/1-StartupExpansion-Project-/blob/main/Portfolio_Project1.ipynb), we could discover the following things in the dataset:
     1.	There are 150 STORES, and the MEAN of all 'Marketing Spend' = 2893.15, the MIN = 1811.00, and the MAX = 3984.00 ,,,,, and all the MEAN 'Revenue' = 39301.43, and the MIN = 15562.00, and the MAX = 68828.00
     2.	The most stores in 1 state is in California = 40 stores, Texas = 17, Florida = 12, Washington = 7
     3.	The most stores in 1 city is in Rochester = 2 stores, and the rest is 1
@@ -65,10 +65,9 @@ ROMS Formula is (ROMS = (profit / Marketing Spend)* 100)
 
 ## Data Transformation
 
-###After finishing the analysis in Python I print the new data frame into a CSV file and transform it into power bi.
+### After finishing the analysis in Python I print the new data frame into a CSV file and transform it into power bi.
 ![](CSV.png)
 ------------
-### No cleaning has been required and no values were missing
 
 
 ## Modeling
@@ -76,4 +75,10 @@ ROMS Formula is (ROMS = (profit / Marketing Spend)* 100)
 No modeling was required since we need just a table for the analysis.
 ![](BI.png)
 -----------
-##The dashboard
+## The dashboard
+
+![](DB.jpg)
+-----------
+
+
+# Thank you
